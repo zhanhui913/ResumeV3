@@ -21,7 +21,7 @@ img {
 }
 
 a {
-	color: #2980B9;
+	color: #CF000F;
 }
 
 a:hover {
@@ -35,7 +35,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
 	font: 400 46px/1.2 'Montserrat', serif, sans-serif;
 	margin: 5px 0 5px;
-	color: #2980B9;
+	color:#CF000F;
 }
 
 h1 {
@@ -215,7 +215,7 @@ a,
 
 .btn-custom-1, .btn-custom-2 {
 	background: transparent;
-	border: 2px solid #2980B9;
+	border: 2px solid #CF000F;
 	padding: 15px 25px;
 }
 
@@ -224,8 +224,8 @@ a,
 }
 
 .btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
-	background: #2980B9;
-	border: 2px solid #2980B9;
+	background: #CF000F;
+	border: 2px solid #CF000F;
 	color: #FFF;
 }
 
@@ -443,7 +443,7 @@ h3 > .fa {
 .navbar-custom .nav li.active {
 	background: none;
 	outline: 0;
-	color: #2980B9;
+	color: #CF000F;
 }
 
 .navbar-custom .navbar-brand {
@@ -482,7 +482,7 @@ h3 > .fa {
 }
 
 .navbar-color .navbar-nav > li.active {
-	border-bottom: 3px solid #222;
+	border-bottom: 3px solid #CF000F;
 }
 
 .custom-collapse .navbar-nav {
@@ -566,7 +566,7 @@ h3 > .fa {
 }
 
 .widget-social li a:hover {
-	background: #2980B9;
+	background: #CF000F;
 }
 
 /* ---------------------------------------------- /*
@@ -698,7 +698,7 @@ h3 > .fa {
 }
 
 #contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
-	color: #FFF;
+	color: #CF000F;
 }
 
 #contact .form-control {
