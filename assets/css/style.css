@@ -516,6 +516,11 @@ h3 > .fa {
 	color: #FFF;
 }
 
+
+#intro .container{
+	padding-bottom: 300px;
+}
+
 .hello {
 	margin: 0 0 100px;
 }
