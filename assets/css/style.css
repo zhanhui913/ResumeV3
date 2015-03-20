@@ -334,7 +334,8 @@ a,
 }
 
 .callout {
-	background: #F5F5F5;
+	/*background: #F5F5F5;*/
+    background-image: url("../images/sativa.png");
 }
 
 .headline {
