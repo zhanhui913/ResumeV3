@@ -555,8 +555,8 @@ h3 > .fa {
 
 .widget-social div{
 	display:block;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 0%;
+	margin-right: 0%;
 }
 
 .widget-social li {
@@ -668,7 +668,7 @@ h3 > .fa {
 	margin-bottom: 20px;
 	overflow: hidden;
 }
-
+/* For previously held portfolio
 .portfolio-item-preview {
 	position: relative;
 }
@@ -696,6 +696,42 @@ h3 > .fa {
 	text-align: center;
 	opacity: 0;
 	color: #222;
+}*/
+
+.portfolio-widget {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.widget-portfolio {
+	padding: 0;
+	margin: 0;
+}
+
+.widget-portfolio div{
+	display:block;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+.widget-portfolio li {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.widget-portfolio li a {
+	background: #2e2e2e;
+	text-align: center;
+	display: block;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 1.25em;
+	color: #FFF;
+}
+
+.widget-portfolio li a:hover {
+	background: #CF000F;
 }
 
 /* ---------------------------------------------- /*
